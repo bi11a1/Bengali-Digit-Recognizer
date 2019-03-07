@@ -3,4 +3,4 @@ It is a machine learning project that can recognize handwritten bengali digits (
 accuracy of 98.40% on the test images.
 
 <br>**Input and Output:**<br/><br>
-![alt text](Bengali-Digit-Recognizer/Demo images/Capture.PNG)
+![alt text](https://github.com/bi11a1/Bengali-Digit-Recognizer/blob/master/Demo%20images/Capture.PNG)
